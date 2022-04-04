@@ -143,6 +143,7 @@ c c
 d d
 d_< ɗ
 d` ɖ
+d\ ȡ
 e e
 f f
 g ɡ
@@ -157,9 +158,11 @@ l l
 l\ ɺ
 l\\ ɼ
 l` ɭ
+l\` ȴ
 m m
 n n
 n` ɳ
+n\ ȵ
 o o
 p p
 p\ ɸ
@@ -173,6 +176,7 @@ s\ ɕ
 s` ʂ
 t t
 t` ʈ
+t\ ȶ
 u u
 v v
 v\ ʋ
